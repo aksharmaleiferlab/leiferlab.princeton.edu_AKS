@@ -32,15 +32,15 @@
 		
 		<article class="member">
 			<h3 class="member-name">Anuj Sharma, Ph.D.</h3>
-			<h4 class="member-position">Associate Professional Specialist and Lab Manager</h4>
+			<h4 class="member-position">Staff Scientist</h4>
 			<p class="member-contact">
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:aksharma@princeton.edu">aksharma@princeton.edu</a><br \>
 				<i class="icon-phone"></i> (609) 258-8635<br \>
 			</p>
 			<p class="member-bio">
-				Anuj Sharma is an Associate Professional Specialist and Lab Manager in the Department of Physics. Previously, he had been a Postdoctoral Associate at University of Maryland, College Park and Cornell University, Ithaca. He received his Doctorate in Biotechnology from Jawaharlal Nehru University, New Delhi. Other than science, he is interested in Nature Photography and Sketching.</p>
+				Anuj Sharma is a Staff Scientist in the Department of Physics. Previously, he had been a Postdoctoral Associate at University of Maryland, College Park and Cornell University, Ithaca. He received his Doctorate in Biotechnology from Jawaharlal Nehru University, New Delhi. Other than science, he is interested in Nature Photography and Sketching.</p>
 			<div class="member-avatar">
-				<img alt="" src="assets/team/sharmaHeadSq.jpg" />
+				<img alt="" src="assets/team/sharmaHeadShot.jpg" />
 			</div>
 		</article>
 		
