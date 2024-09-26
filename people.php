@@ -14,7 +14,7 @@
 		
 		<article class="member">
 			<h3 class="member-name">Andrew Leifer, Ph.D.</h3>
-			<h4 class="member-position">Assistant Professor</h4>
+			<h4 class="member-position">Associate Professor</h4>
 			<p class="member-contact">
 				220 Jadwin Hall | 250 PNI <br \>				
 				<i class="icon-envelope"></i>&nbsp;<a href="mailto:leifer@princeton.edu">leifer@princeton.edu</a><br \>
@@ -68,7 +68,7 @@
 			<h3 class="member-name">Junang Li, Ph.D.</h3>
 			<h4 class="member-position">NSF CPBF Fellow</h4>
 			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:frandi@princeton.edu">frandi@princeton.edu</a><br \>
+				<i class="icon-envelope"></i>&nbsp;<a href="mailtjunangl:@princeton.edu">junangl@princeton.edu</a><br \>
 			<p class="member-bio">
 				Junang is a fellow in the Center for the Physics of Biological Function studying the  nonequilibrium nature of the neural and behavioral dynamics of <em>C.elegans</em>. He received his PhD from MIT, working with Nikta Fakhri trying to understand emergent behavior of active matter through the lens of thermodynamics. Beyond research, he enjoys running, skiing and reading. 
                 
@@ -177,25 +177,39 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 				<p>?</p>
 			</div>
 		</article>
+			<article class="member">
+				<h3 class="member-name">Wayan Gauthey</h3>
+				<h4 class="member-position">Graduate Student</h4>
+				<p class="member-contact">
+					<i class="icon-envelope"></i>&nbsp;<a href="mailto:wgauthey@princeton.edu">wgauthey@princeton.edu</a><br \>
+					<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
+				</p>
+				<p class="member-bio">
+				Wayan is a graduate student in Neuroscience and is jointly advised by Andrew Leifer and Mala Murthy. He is interested in the neural basis of brain-wide dynamics underlying behavior in <i>C.elegans</i> and <i>Drosophila</i>. He received his M.S in Neuroscience and Neuroinformatics from the University of Zurich where he studied the mechanisms controlling synaptic nano-architecture in <i>Drosophila</i>. Outside of the lab he plays ice hockey.
+				
+		</p>
+				<div class="member-avatar">
+					<img alt="" src="assets/team/Wayan.jpg" />
+					<p>?</p>
+				</div>
+			</article>
+			<article class="member">
+				<h3 class="member-name">Pearl Thijssen</h3>
+				<h4 class="member-position">Graduate Student</h4>
+				<p class="member-contact">
+					<i class="icon-envelope"></i>&nbsp;<a href="mailto:pt4009@princeton.edu">pt4009@princeton.edu</a><br \>
+					<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
+				</p>
+				<p class="member-bio">
+Pearl is a graduate student in the Physics department interested in studying the dynamics of neuropeptides in C. elegans. She received a BA in Physics and Philosophy from Wellesley College, and studied quantum materials prior to joining the lab. Pearl also enjoys reading, spending time outdoors, and coming up with terrible puns.				
+		</p>
+				<div class="member-avatar">
+					<img alt="" src="assets/team/Pearl.jpg" />
+					<p>?</p>
+				</div>
+			</article>
 
 
-
-		<article class="member">
-			<h3 class="member-name">Abdul-Bassit Fijabi</h3>
-			<h4 class="member-position">Senior Thesis Student</h4>
-			<p class="member-contact">
-				<i class="icon-envelope"></i>&nbsp;<a href="mailto:afijabi@princeton.edu">afijabi@princeton.edu</a><br \>
-				<!-- <i class="icon-phone"></i> (609) 258-2973<br \> -->
-			</p>
-			<p class="member-bio">
-			Abdul-Bassit (Bassit) is a senior in the Neuroscience department pursuing certificates in Applied Math and Quantitative Biology. For his senior thesis, he is exploring theories of criticality for the nonlinear <i>C. elegans</i> neural network using methods from statistical mechanics and field theory. When not in the lab, he is involved in DEI efforts and progressive activism on campus, and enjoys writing music, reading, and exploring the surrounding community.
-			
-	</p>
-			<div class="member-avatar">
-				<img alt="" src="assets/team/fijabi.jpg" />
-				<p>?</p>
-			</div>
-		</article>
 
 
 
@@ -225,6 +239,21 @@ Matt is a C. V. Starr Fellow at the Princeton Neuroscience Institute and is join
 	
 		<div class="hero-unit">
 			<p>Lab Alumni</p>
+				
+				<article class="member">
+						<h3 class="member-name">Abdul-Bassit Fijabi</h3>
+						<h4 class="member-position">Senior Thesis Student</h4>
+						<p class="member-contact">
+							2022-2024
+						</p>
+						<p class="member-bio">
+Masters student at École normale supérieure.	
+				</p>
+						<div class="member-avatar">
+							<img alt="" src="assets/team/fijabi.jpg" />
+							<p>?</p>
+						</div>
+					</article>
 				
 			
 		
